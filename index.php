@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
-
-=======
  <!--Just a Test-->
->>>>>>> a7d00d6ff540f643be03a7b67d0a3c85dc4d4ea4
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
